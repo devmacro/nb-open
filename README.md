@@ -1,24 +1,20 @@
-# nb-open
+# Open notebooks for learning macroeconomics and data science
 
-## Online Analysis Environment
-[![GESIS Notebooks](https://notebooks.gesis.org/static/images/logo/logo_text.png)](https://notebooks.gesis.org)
+## Online Environment
 
 The notebooks can be executed online at [GESIS Notebooks](https://notebooks.gesis.org). Just copy the URL of this repository and paste it on the [BINDER form](https://notebooks.gesis.org/binder/)
 
-- To open a virtual Jupyter lab session, make sure you change you click on `File` and change it to `URL`. Then, write `lab` in the field `URL to open (optional)`. Finally, click on `launch`. Alternatively, you could just click on this Binder badge: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-open/HEAD?urlpath=lab)
+- To open a virtual Jupyter lab session, make sure you change you click on `File` and change it to `URL`. Then, write `lab` in the field `URL to open (optional)`. Finally, click on `launch`. 
+- To open a virtual R Studio session, make sure you change you click on `File` and change it to `URL`. Then, write `rstudio` in the field `URL to open (optional)`. Finally, click on `launch`.  
 
-- To open a virtual R Studio session, make sure you change you click on `File` and change it to `URL`. Then, write `rstudio` in the field `URL to open (optional)`. Finally, click on `launch`.  Alternatively, you could just click on this Binder badge: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-open/HEAD?urlpath=rstudio)
+## Notebooks
+
+- Solow model:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmg777/intro-macro-models-with-python/blob/main/Solow%20Model.ipynb)
+
+- Dataprep: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devmacro/nb-open/blob/main/dataprep.ipynb)
 
 
----
-## Basic macroeconomic models with Python
 
-- The Solow model  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmg777/intro-macro-models-with-python/blob/main/Solow%20Model.ipynb)
-
-
----
-
-Original Source: https://www.ncachanosky.com/macro_python/
 
 
 
