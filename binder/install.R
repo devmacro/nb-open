@@ -13,4 +13,4 @@ install.packages("ExPanDaR", repos = "https://cloud.r-project.org/", dependencie
 #install.packages("GWmodel", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 #install.packages("splm", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 #install.packages("spsur", repos = "https://cloud.r-project.org/", dependencies=TRUE)
-install.packages("ggstatsplot", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+#install.packages("ggstatsplot", repos = "https://cloud.r-project.org/", dependencies=TRUE)
