@@ -1,26 +1,33 @@
-name: devmacro
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python =3.7
   - bokeh
-  - matplotlib==2.2.5
-  - numpy
-  - pandas
-  - seaborn
   - pip
-  - ipywidgets
-  - dataprep
+  - geopandas
+  - seaborn
+  - descartes
+  - folium
   - ipython
+  - ipywidgets
   - jupyterlab
+  - pysal
+  - splot
+  - mapclassify
   - nbconvert
+  - networkx
+  - palettable
   - scikit-learn
+  - seaborn
   - statsmodels
-  - sympy
   - hvplot
   - holoviews
+  - geoviews
   - watermark
+  - rasterio
+  - cenpy
+  - contextily
   - vega_datasets
   - pip:
     - segregation==1.4

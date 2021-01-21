@@ -2,3 +2,5 @@ htop
 libudunits2-0
 libudunits2-dev
 libgdal-dev
+libproj-dev
+libgeos-dev
